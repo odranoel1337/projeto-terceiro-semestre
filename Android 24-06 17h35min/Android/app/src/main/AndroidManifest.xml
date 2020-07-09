@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="br.android.larsaovicentev2">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme"
+        android:usesCleartextTraffic="true">
+        <activity android:name=".AddProdutoActivity"></activity>
+        <activity android:name=".GerenciarProdutoActivity" />
+        <activity android:name=".FacebookActivity" />
+        <activity android:name=".SiteIntActivity" />
+        <activity android:name=".MinhasDoacoesProdutoActivity" />
+        <activity android:name=".MinhasDoacoesDinheiroActivity" />
+        <activity android:name=".RemoverCampanhaActivity" />
+        <activity android:name=".GerenciarCampanhasActivity" />
+        <activity android:name=".AddCampanhaActivity" />
+        <activity android:name=".AjudaActivity" />
+        <activity android:name=".activitys.PerfilActivity" />
+        <activity android:name=".DoacaoProdutoActivity" />
+        <activity android:name=".DoacaoDinheiroActivity" />
+        <activity android:name=".activitys.ComentariosActivity" />
+        <activity android:name=".ComprovanteDActivity" />
+        <activity android:name=".ComprovantePActivity" />
+        <activity android:name=".CampanhasActivity" />
+        <activity android:name=".activitys.SobreNosActivity" />
+        <activity android:name=".activitys.EscolhaActivity" />
+        <activity android:name=".activitys.AbasActivity" />
+        <activity android:name=".activitys.SplashActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".activitys.CadastroPessoaJuridicaActivity" />
+        <activity android:name=".activitys.CadastroPessoaFisicaActivity" />
+        <activity android:name=".activitys.MainActivity" />
+    </application>
+
+</manifest>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="br.android.larsaovicentev2"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="14"
+        android:targetSdkVersion="29" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+    <application
+        android:allowBackup="true"
+        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+        android:debuggable="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:testOnly="true"
+        android:theme="@style/AppTheme"
+        android:usesCleartextTraffic="true" >
+        <activity android:name="br.android.larsaovicentev2.AddProdutoActivity" />
+        <activity android:name="br.android.larsaovicentev2.GerenciarProdutoActivity" />
+        <activity android:name="br.android.larsaovicentev2.FacebookActivity" />
+        <activity android:name="br.android.larsaovicentev2.SiteIntActivity" />
+        <activity android:name="br.android.larsaovicentev2.MinhasDoacoesProdutoActivity" />
+        <activity android:name="br.android.larsaovicentev2.MinhasDoacoesDinheiroActivity" />
+        <activity android:name="br.android.larsaovicentev2.RemoverCampanhaActivity" />
+        <activity android:name="br.android.larsaovicentev2.GerenciarCampanhasActivity" />
+        <activity android:name="br.android.larsaovicentev2.AddCampanhaActivity" />
+        <activity android:name="br.android.larsaovicentev2.AjudaActivity" />
+        <activity android:name="br.android.larsaovicentev2.activitys.PerfilActivity" />
+        <activity android:name="br.android.larsaovicentev2.DoacaoProdutoActivity" />
+        <activity android:name="br.android.larsaovicentev2.DoacaoDinheiroActivity" />
+        <activity android:name="br.android.larsaovicentev2.activitys.ComentariosActivity" />
+        <activity android:name="br.android.larsaovicentev2.ComprovanteDActivity" />
+        <activity android:name="br.android.larsaovicentev2.ComprovantePActivity" />
+        <activity android:name="br.android.larsaovicentev2.CampanhasActivity" />
+        <activity android:name="br.android.larsaovicentev2.activitys.SobreNosActivity" />
+        <activity android:name="br.android.larsaovicentev2.activitys.EscolhaActivity" />
+        <activity android:name="br.android.larsaovicentev2.activitys.AbasActivity" />
+        <activity android:name="br.android.larsaovicentev2.activitys.SplashActivity" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="br.android.larsaovicentev2.activitys.CadastroPessoaJuridicaActivity" />
+        <activity android:name="br.android.larsaovicentev2.activitys.CadastroPessoaFisicaActivity" />
+        <activity android:name="br.android.larsaovicentev2.activitys.MainActivity" />
+
+        <provider
+            android:name="androidx.lifecycle.ProcessLifecycleOwnerInitializer"
+            android:authorities="br.android.larsaovicentev2.lifecycle-process"
+            android:exported="false"
+            android:multiprocess="true" />
+    </application>
+
+</manifest>

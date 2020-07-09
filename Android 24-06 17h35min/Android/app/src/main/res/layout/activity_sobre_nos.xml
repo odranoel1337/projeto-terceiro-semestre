@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/home"
+    tools:context=".activitys.SobreNosActivity">
+    <include
+        layout="@layout/toolbar_padrao"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <ScrollView
+        android:id="@+id/scrollSobreNos"
+        android:layout_width="423dp"
+        android:layout_height="424dp"
+        android:layout_marginTop="150dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.532">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/txtSobreNos"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_marginHorizontal="20dp"
+                android:layout_marginTop="10dp"
+                android:text="@string/about_us"
+                android:textColor="@android:color/background_dark"
+                android:textSize="20dp"></TextView>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="94dp"
+                android:layout_marginHorizontal="10dp"
+                android:layout_marginTop="20dp"
+                android:orientation="horizontal">
+
+                <ImageView
+                    android:id="@+id/imgMapa"
+                    android:layout_width="102dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    app:srcCompat="@drawable/pin" />
+
+                <TextView
+                    android:id="@+id/txtEndereco"
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:gravity="center"
+                    android:text="Rua Quirino Semeghini, 271 - Vila Esperança Santo Antônio de Posse -SP"
+                    android:textColor="@color/colorPrimaryDark"
+                    android:textSize="18dp" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="94dp"
+                android:layout_marginHorizontal="10dp"
+                android:layout_marginTop="20dp"
+                android:orientation="horizontal">
+
+                <ImageView
+                    android:id="@+id/imgContato"
+                    android:layout_width="2dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    app:srcCompat="@drawable/phone" />
+
+                <TextView
+                    android:id="@+id/txtContato"
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:gravity="center_vertical"
+                    android:textColor="@color/colorPrimaryDark"
+                    android:text=" (19) 3896-2503"
+                    android:textSize="18dp" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="94dp"
+                android:layout_marginHorizontal="10dp"
+                android:layout_marginTop="20dp"
+                android:orientation="horizontal">
+
+                <ImageView
+                    android:id="@+id/imgContatoEmail"
+                    android:layout_width="47dp"
+                    android:layout_height="94dp"
+                    android:layout_weight="1"
+                    app:srcCompat="@drawable/folder_email" />
+
+                <TextView
+                    android:id="@+id/txtContatoEmail"
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:gravity="center_vertical"
+                    android:text="contato@larsvp.org.br"
+                    android:textColor="@color/colorPrimaryDark"
+                    android:textSize="18dp" />
+
+            </LinearLayout>
+            <TextView
+                android:id="@+id/txtMidias"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginHorizontal="20dp"
+                android:layout_marginTop="10dp"
+                android:gravity="center"
+                android:text="Mais Informações acesse:"
+                android:textColor="@android:color/background_dark"
+                android:textSize="20dp"></TextView>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="94dp"
+                android:layout_marginHorizontal="10dp"
+                android:layout_marginTop="10dp"
+                android:orientation="horizontal">
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:layout_marginLeft="80dp"
+                    android:orientation="vertical">
+
+                    <ImageView
+                        android:id="@+id/imgSite"
+                        android:layout_width="60dp"
+                        android:layout_height="47dp"
+                        android:layout_weight="1"
+                        app:srcCompat="@drawable/site" />
+
+                    <TextView
+                        android:id="@+id/txtSite"
+                        android:layout_width="wrap_content"
+                        android:layout_height="match_parent"
+                        android:layout_gravity="center"
+                        android:layout_weight="1"
+                        android:gravity="center"
+                        android:text="Site"
+                        android:textColor="@android:color/background_dark"
+                        android:textSize="18dp" />
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:layout_marginLeft="100dp"
+                    android:orientation="vertical">
+
+                    <ImageView
+                        android:id="@+id/imgFacebook"
+                        android:layout_width="60dp"
+                        android:layout_height="47dp"
+                        android:layout_gravity="center"
+                        android:layout_weight="1"
+                        app:srcCompat="@drawable/facebook" />
+
+                    <TextView
+                        android:id="@+id/txtFacebook"
+                        android:layout_width="wrap_content"
+                        android:layout_height="match_parent"
+                        android:layout_gravity="center"
+                        android:layout_weight="1"
+                        android:gravity="center"
+                        android:text="Facebook"
+                        android:textColor="@android:color/background_dark"
+                        android:textSize="18dp" />
+
+                </LinearLayout>
+
+                <!--<LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:layout_marginHorizontal="20dp"
+                    android:orientation="vertical">
+
+                    <ImageView
+                        android:id="@+id/imgInstagram"
+                        android:layout_width="60dp"
+                        android:layout_height="47dp"
+                        android:layout_gravity="center"
+                        android:layout_weight="1"
+                        app:srcCompat="@drawable/instagram" />
+
+                    <TextView
+                        android:id="@+id/txtInstagram"
+                        android:layout_width="wrap_content"
+                        android:layout_height="match_parent"
+                        android:layout_gravity="center"
+                        android:layout_weight="1"
+                        android:gravity="center"
+                        android:text="Instagram"
+                        android:textColor="@android:color/background_dark"
+                        android:textSize="18dp" />
+
+                </LinearLayout>-->
+
+            </LinearLayout>
+
+        </LinearLayout>
+    </ScrollView>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

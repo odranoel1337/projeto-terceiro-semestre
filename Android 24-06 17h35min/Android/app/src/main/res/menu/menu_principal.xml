@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menuGerenciarCampanha"
+        android:title="Gerenciar Campanhas"
+        android:orderInCategory="200"
+        />
+    <item
+        android:id="@+id/menuGerenciarProduto"
+        android:title="Gerenciar Produtos"
+        android:orderInCategory="200"/>
+    <item
+        android:id="@+id/menuLogOut"
+        android:title="Log Out"
+        android:orderInCategory="200"
+        />
+</menu>

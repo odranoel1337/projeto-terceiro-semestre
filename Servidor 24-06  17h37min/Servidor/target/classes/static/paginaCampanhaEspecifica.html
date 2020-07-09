@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Login do Administrador</title>
+    <link rel="stylesheet" type="text/css" href="css/style.css">
+    <link href="https://fonts.googleapis.com/css?family=Poppins:600&display=swap" rel="stylesheet">
+    <script src="https://kit.fontawesome.com/a81368914c.js"></script>
+    <script type="text/javascript" src="js/main.js"></script>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+<body onload="buscarCampanha();">
+<img class = "wave" src="img/wave.jpg">
+<div class="containeradd">
+    <div class="login-content">
+        <form action="paginaCampanhaEspecifica.html">
+            <div class="input-div one">
+                <div class="i">
+                </div>
+                <div class="div">
+                    <h6>Nome da Campanha</h6>
+                    <input type="text" class="input" id="nome_campanha" readonly>
+                </div>
+            </div>
+            <div class="input-div one">
+                <div class="i">
+                </div>
+                <div class="div">
+                    <h6>Meta da Campanha</h6>
+                    <input type="text" class="input" id="meta_campanha" readonly>
+                </div>
+            </div>
+            <div class="input-div one">
+                <div class="i">
+                </div>
+                <div class="div">
+                    <h6>Total Arrecadado</h6>
+                    <input type="text" class="input" id="arrecadado_campanha" readonly>
+                </div>
+            </div>
+            <div class="input-div one">
+                <div class="i">
+                </div>
+                <div class="div">
+                    <h6>Tipo de Produto a ser Doado</h6>
+                    <input type="text" class="input" id="tipo_produto" readonly>
+                </div>
+            </div>
+            <div class="input-div one">
+                <div class="i">
+                </div>
+                <div class="animation">
+                    <h6>Data Início</h6>
+                    <input type="text" class="input" id="data_inicio" readonly>
+                </div>
+            </div>
+            <div class="input-div one">
+                <div class="i">
+                </div>
+                <div class="div1">
+                    <h6>Data Fim</h6>
+                    <input type="text" class="input" id="data_fim" readonly>
+                </div>
+            </div>
+            <div class="input-div one">
+                <div class="i">
+                </div>
+                <div class="div">
+                    <h6>Descrição da Campanha</h6>
+                    <input type="text" class="input" id="descricao_campanha" readonly>
+                </div>
+            </div>
+    </div>
+</div>
+</form>
+
+<center>
+    <form action="paginaCampanhaEspecifica.html">
+        <input type="button" class="btnsmallmargin" value="Voltar" id="buttonVoltar" onclick="verCampanha()">
+    </form>
+</center>
+
+</body>
+</html>

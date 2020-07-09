@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".DoacaoDinheiroActivity">
+
+    <include
+        layout="@layout/toolbar_padrao"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:layout_marginTop="55dp"
+        android:id="@+id/LinearDinheiro">
+
+        <TextView
+            android:id="@+id/textView20"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20dp"
+            android:layout_marginTop="30dp"
+            android:layout_marginRight="20dp"
+            android:gravity="center"
+            android:text="Preencha o formulário para realizar a Doação"
+            android:textSize="25dp" />
+
+        <EditText
+            android:id="@+id/EditTextValor"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20dp"
+            android:layout_marginTop="50dp"
+            android:layout_marginRight="20dp"
+            android:hint="Digite o Valor a ser Doado"
+            android:inputType="number"></EditText>
+
+        <TextView
+            android:id="@+id/textView2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20dp"
+            android:layout_marginTop="50dp"
+            android:layout_marginRight="20dp"
+            android:gravity="center"
+            android:text="Escolha o medoto do pagamento:"
+            android:textSize="20dp" />
+
+        <Spinner
+            android:id="@+id/spinnerForma"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20dp"
+            android:layout_marginTop="15dp"
+            android:layout_marginRight="20dp"></Spinner>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="61dp"
+            android:layout_marginTop="50dp"
+            android:orientation="horizontal">
+
+
+            <EditText
+                android:id="@+id/editTextDataPagamento"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:ems="10"
+                android:layout_marginLeft="20dp"
+                android:inputType="date"
+                android:hint="Escolha a data da Doação"/>
+
+            <ImageView
+                android:id="@+id/btnAbreCalndarioD"
+                android:layout_width="9dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                app:srcCompat="@drawable/calendar_button" />
+
+        </LinearLayout>
+
+        <Button
+            android:id="@+id/btnDoarDinheiro"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="100dp"
+            android:textColor="@color/colorPrimary"
+            android:background="@drawable/botao_background"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:text="Finalizar Doação" />
+
+
+    </LinearLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="410dp"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    app:cardElevation="5dp"
+    app:cardUseCompatPadding="true">
+
+    <LinearLayout
+
+        android:layout_width="385dp"
+        android:layout_height="78dp"
+        android:layout_margin="5dp"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <TextView
+                android:id="@+id/textViewTituloMD"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Titulo campanha:"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/textViewTituloCampanhaMinhasDoacoesValor"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="5dp"
+                android:layout_weight="1"
+                android:text="TextView" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <TextView
+                android:id="@+id/textViewDataDoacaoMD"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Data doação:"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/textViewDataDoacaoMinhasDoacoesValor"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="5dp"
+                android:layout_weight="1"
+                android:text="TextView" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <TextView
+                android:id="@+id/textView24"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="Nome produto:"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/textViewTipoProdutoMinhasDoacoesValor"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="5dp"
+                android:layout_weight="1"
+                android:text="TextView" />
+
+            <TextView
+                android:id="@+id/textViewUnidadeProdutoMD"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="5dp"
+                android:layout_weight="1"
+                android:text="Unidade:"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/textViewUnidadeProdutoMinhasDoacoesValor"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="3dp"
+                android:layout_weight="1"
+                android:text="TextView" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <TextView
+                android:id="@+id/textViewQuantidadeMD"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Quantidade doada:"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/textViewQuantidadeDoadaMinhasDoacoesValor"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="5dp"
+                android:layout_weight="1"
+                android:text="TextView" />
+        </LinearLayout>
+
+    </LinearLayout>
+
+</androidx.cardview.widget.CardView>

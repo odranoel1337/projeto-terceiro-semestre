@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FFFFFF</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#FFFFFF</color>
+    <color name="tint_color">#FFFFFF</color>
+    <color name="azulzueiro">#008ecc</color>
+    <color name="azuldiferenciado">#36C5F4</color>
+    <color name="colorCalendar">#3F51B5</color>
+</resources>

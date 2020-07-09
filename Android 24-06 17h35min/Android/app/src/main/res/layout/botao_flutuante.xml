@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.material.floatingactionbutton.FloatingActionButton xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+
+    android:id="@+id/floatingActionButtonConversas"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="580dp"
+    android:layout_marginLeft="310dp"
+    android:clickable="true"
+    android:src="@drawable/conversa_icone"
+    app:backgroundTint="#5E9FE4"
+    android:elevation="0dp"
+    app:layout_constraintEnd_toEndOf="parent"
+    app:layout_constraintTop_toTopOf="parent"
+    android:layout_marginRight="16dp">
+
+
+</com.google.android.material.floatingactionbutton.FloatingActionButton>

@@ -1,0 +1,76 @@
+create table campanha(id number not null auto_increment,
+                      nome_campanha varchar2(30) not null,
+                      descricao varchar2(50) not null,
+                      meta number not null,
+                      arrecadado number not null,
+                      data_inicio varchar2(10) not null,
+                      data_fim varchar2(10) not null,
+                      tipo_doacao varchar2(10) not null)
+
+create table comentario(id number not null auto_increment,
+                        mensagem varchar2(250) not null,
+                        data_mensagem varchar2(10) not null,
+                        horario_mensagem varchar(5) not null,
+                        nome_pessoa varchar(100) not null,
+                        id_campanha number not null)
+
+create table doacao_dinheiro(id number not null auto_increment,
+                             quantidade number not null,
+                             data varchar2(10) not null,
+                             pessoa_id number not null,
+                             metodo_pagamento varchar2(32) not null)
+
+create table doacao_produto(id number not null auto_increment,
+                            quantidade number not null,
+                            data varchar2(10) not null,
+                            pessoa_id number not null,
+                            nome_produto varchar2(30) not null,
+                            campanha_id number not null)
+
+create table pessoa(id number not null auto_increment, nome varchar2(20) not null,
+                    sobrenome_nome_fantasia varchar2(50) not null,
+                    email varchar2(50) not null,
+                    cpf_cnpj varchar2(14) not null,
+                    senha varchar(20) not null,
+                    tipo_pessoa varchar2(1) not null)
+
+create table produto(id number not null auto_increment,
+                     tipo_produto varchar2(20) not null,
+                     nome_produto varchar2(30) not null,
+                     unidade varchar2(2) not null,
+                     campanha_id number not null)
+
+//-------------------------------------------------//
+
+alter table campanha add constraint PK_CAMPANHA primary key(id)
+
+alter table doacao_dinheiro add constraint PK_DOACAO_DINHEIRO primary key(id)
+
+alter table doacao_produto add constraint PK_DOACAO_PRODUTO primary key(id)
+
+alter table pessoa add constraint PK_PESSOA primary key(id)
+
+alter table produto add constraint PK_PRODUTO primary key(id)
+
+alter table comentario add constraint PK_COMENTARIO primary key(id)
+
+//-------------------------------------------------//
+
+alter table doacao_dinheiro add constraint FK_PESSOA_DOACAO_DINHEIRO foreign key(pessoa_id) references pessoa(id)
+
+alter table doacao_produto add constraint FK_PESSOA_DOACAO_PRODUTO foreign key(pessoa_id) references pessoa(id)
+
+alter table doacao_produto add constraint FK_PRODUTO_DOACAO_PRODUTO foreign key(produto_id) references produto(id)
+
+alter table doacao_produto add constraint FK_CAMPANHA_DOACAO_PRODUTO foreign key(campanha_id) references campanha(id) ON DELETE CASCADE
+
+alter table produto add constraint FK_CAMPANHA_PRODUTO foreign key(campanha_id) references campanha(id)
+
+alter table comentario add constraint FK_CAMPANHA_COMENTARIO foreign key(id_campanha) references campanha(id) ON DELETE CASCADE
+
+//-------------------------------------------------//
+
+insert into produto(tipo_produto, nome_produto, unidade, campanha_id) VALUES ('Alimento', 'Arroz', 'Kg', 1)
+
+//------------------------------------------------//
+

@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/ComprovanteDinheiro"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".ComprovanteDActivity">
+
+
+    <TextView
+        android:id="@+id/textView20"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="25dp"
+        android:layout_marginRight="20dp"
+        android:gravity="center"
+        android:text="Comprovante da Doação"
+        android:textSize="25dp" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_below="@+id/text_today"
+        android:layout_marginTop="20dp"
+        android:background="@color/colorPrimaryDark"
+        android:gravity="center" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="25dp"
+        android:layout_marginRight="20dp"
+        android:gravity="center"
+        android:text="Valor Doado:"
+        android:textSize="20dp" />
+
+
+    <TextView
+        android:id="@+id/valorDoacao"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:gravity="center"
+        android:text="Valor"
+        android:textSize="20dp" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_below="@+id/text_today"
+        android:layout_marginTop="50dp"
+        android:background="@color/colorPrimaryDark"
+        android:gravity="center" />
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="25dp"
+        android:layout_marginRight="20dp"
+        android:gravity="center"
+        android:text="Forma de Pagamento:"
+        android:textSize="20dp" />
+
+    <TextView
+        android:id="@+id/formaPagament"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:gravity="center"
+        android:text="Forma"
+        android:textSize="20dp" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_below="@+id/text_today"
+        android:layout_marginTop="40dp"
+        android:background="@color/colorPrimaryDark"
+        android:gravity="center" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="25dp"
+        android:layout_marginRight="20dp"
+        android:gravity="center"
+        android:text="Data da Doação:"
+        android:textSize="20dp" />
+
+    <TextView
+        android:id="@+id/valorDataD"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:gravity="center"
+        android:text="Data"
+        android:textSize="20dp" />
+
+    <View
+        android:id="@+id/viewBoleto"
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:visibility="invisible"
+        android:layout_below="@+id/text_today"
+        android:layout_marginTop="10dp"
+        android:background="@color/colorPrimaryDark"
+        android:gravity="center" />
+
+    <TextView
+        android:id="@+id/txtLink"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:gravity="center"
+        android:visibility="invisible"
+        android:textColor="@color/colorPrimaryDark"
+        android:text="Clique aqui para Gerar o Boleto"
+        android:textSize="20dp" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_below="@+id/text_today"
+        android:layout_marginTop="10dp"
+        android:background="@color/colorPrimaryDark"
+        android:gravity="center" />
+
+    <TextView
+        android:id="@+id/textView8"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginRight="20dp"
+        android:text="Guarde uma Captura dessa tela para garantir sua Doação." />
+
+    <TextView
+        android:id="@+id/textView7"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:text="*As Doações só serão contabilizadas pelo APP, o pagamento deve ser efetaudo na instituição ou no banco" />
+
+
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_below="@+id/text_today"
+        android:layout_marginTop="20dp"
+        android:background="@color/colorPrimaryDark"
+        android:gravity="center" />
+
+    <Button
+        android:id="@+id/btnComprovanteDoacao"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginRight="20dp"
+        android:background="@drawable/botao_background"
+        android:text="Finalizar"
+        android:textColor="@color/colorPrimary" />
+
+</LinearLayout>

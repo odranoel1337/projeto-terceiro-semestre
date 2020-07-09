@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <title>Incluir uma Pessoa</title>
+</head>
+<body>
+
+Nome:<input id="nome" type="text" /> <br/>
+Sobrenome<input id="sobrenome" type="text" /> <br/>
+Nome_fantasia<input id="nome_fantasia" type="text" /> <br/>
+Email<input id="email" type="text" /> <br/>
+Cpf_cnpj<input id="cpf_cnpj" type="text" /> <br/>
+senha<input id="senha" type="text" /> <br />
+tipo_pessoa<input id="tipo_pessoa" type="text" /> <br/>
+<script>
+    function enviar(){
+        var nome = document.getElementById("nome").value;
+        var sobrenome = document.getElementById("sobrenome").value;
+        var nome_fantasia = document.getElementById("nome_fantasia").value;
+        var email = document.getElementById("email").value;
+        var cpf_cnpj = document.getElementById("cpf_cnpj").value;
+        var senha = document.getElementById("senha").value;
+        var tipo_pessoa = document.getElementById("tipo_pessoa").value;
+
+        var obj = {nome: nome, sobrenome: sobrenome, nome_fantasia: nome_fantasia email: email, cpf_cnpj: cpf_cnpj, senha: senha, tipo_pessoa: tipo_pessoa};
+        var json = JSON.stringify(obj);
+        var xhttp = new XMLHttpRequest();
+        xhttp.onreadystatechange=function(){
+            if(this.readyState == 4 && this.status == 200) {
+                alert(this.responseText);
+            }
+        };
+        xhttp.open("POST", "/pessoa", true);
+        xhttp.setRequestHeader("Content-Type", "application/json");
+        xhttp.send(json);
+    }
+</script>
+</body>
+</html>

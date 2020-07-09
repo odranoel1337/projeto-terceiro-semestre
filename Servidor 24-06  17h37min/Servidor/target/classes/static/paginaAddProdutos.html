@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+	<title>Login do Administrador</title>
+	<link rel="stylesheet" type="text/css" href="css/style.css">
+	<link href="https://fonts.googleapis.com/css?family=Poppins:600&display=swap" rel="stylesheet">
+	<script src="https://kit.fontawesome.com/a81368914c.js"></script>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+<body>
+    <div class = "smallmargintop">
+        <center><h2 class = "title">Adicione a Campanha</h2></center>
+    </div>
+	<img class = "wave" src="img/wave.jpg">
+		<div class="containeradd">
+			<div class="login-content">
+				<form action="paginaAddCampanhas.html">
+                        <div class="input-div one">
+                            <div class="i">
+                            </div>
+                            <div class="div">
+                                    <h5>Nome do Produto</h5>
+                                    <input type="text" class="input" id="nomeproduto">
+                            </div>
+                            </div>
+                            <div class="input-div one">
+                            <div class="i"> 
+                            </div>
+                            <div class="div">
+                                    <h5>Tipo do Produto</h5>
+                                    <input type="text" class="input" id="tipoproduto">
+                            </div>
+                        </div>
+                            <div class="input-div one">
+                            <div class="i">
+                            </div>
+                            <div class="div">
+                                <h5>Unidade do Produto</h5>
+                                <input type="text" class="input" id="unidadeproduto">
+                            </div>
+                            </div>
+                    </div>
+             </div>
+        </form>
+
+        <center>
+            <form action="paginaAddCampanhas.html">
+                <input type="button" class="btn" value="Adicionar Produto" id="buttonAdicionarProduto" onclick="cadastrarProduto()">
+            </form>
+        </center>
+		<script type="text/javascript" src="js/main.js"></script>
+</body>
+</html>

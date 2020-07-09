@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">LarSaoVicenteV2</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_tela_principal">Tela Principal</string>
+    <string name="menu_perfil">Perfil</string>
+    <string name="menu_sobreapp">Sobre o App</string>
+
+    <string name="home_second">Home Second</string>
+    <string name="title_activity_tela_principal">TelaPrincipalActivity</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_doacao">DoacaoActivity</string>
+    <string name="tab_text_1">Produto</string>
+    <string name="tab_text_2">Dinheiro</string>
+    <string name="mostrar_mais">" " mostrar mais </string>
+    <string name="mostrar_menos">" " mostrar menos</string>
+
+    <string name="about_us">Somos uma casa de longa permanência para idosos com 60 anos ou mais, de ambos os sexos, na qual todos recebem os cuidados integrais, de acordo com as necessidades individuais.\n
+ Considerando as limitações e perdas gradativas no decorrer dos anos vividos, contamos com idosos de diversos graus de dependência.\n
+  Nossa prioridade é oferecer aos residentes qualidade de vida resgatando sua identidade social proporcionando oportunidades e integração na sociedade.</string>
+
+</resources>

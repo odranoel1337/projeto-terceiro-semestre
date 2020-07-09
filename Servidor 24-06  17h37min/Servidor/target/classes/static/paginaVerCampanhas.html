@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8">
+	<title>Visualizar Campanhas</title>
+	<link rel="stylesheet" type="text/css" href="css/style.css">
+	<link href="https://fonts.googleapis.com/css?family=Poppins:600&display=swap" rel="stylesheet">
+	<script src="https://kit.fontawesome.com/a81368914c.js"></script>
+	<script type="text/javascript" src="js/main.js"></script>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+<body onload="buscarCampanhas();">
+
+<img class = "wave" src="img/wave.jpg">
+<center>
+	<div class = "smallmargintop">
+		<h1>Campanhas</h1>
+	</div>
+	<br>
+
+<div id="divPrincipal">
+	Carregando...
+</div>
+
+	<form action="paginaVerCampanhas.html">
+		<input type="button" class="btn" value="Adicionar Nova Campanha" id="buttonAddCampanha" onclick="addCampanhas()">
+	</form>
+	<form action="paginaVerCampanhas.html">
+		<input type="button" class="btn" value="Voltar" id="buttonVoltarPagEscolha" onclick="pagEscolha()">
+	</form>
+
+</center>
+
+</body>
+</html>

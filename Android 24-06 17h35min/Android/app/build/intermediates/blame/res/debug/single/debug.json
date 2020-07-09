@@ -1,0 +1,950 @@
+[
+    {
+        "merged": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_featured_play_list_black_24dp.png.flat",
+        "source": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_featured_play_list_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_minhas_doacoes_campanha.xml.flat",
+        "source": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\src\\main\\res\\layout\\activity_minhas_doacoes_campanha.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_local_florist_black_24dp.png.flat",
+        "source": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_local_florist_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_comprovante_d.xml.flat",
+        "source": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\src\\main\\res\\layout\\activity_comprovante_d.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_dinheiro.xml.flat",
+        "source": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\src\\main\\res\\layout\\activity_dinheiro.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_lsvp_background.png.flat",
+        "source": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_lsvp_background.png"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_assignment_black_24dp.png.flat",
+        "source": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_assignment_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\intermediates\\res\\merged\\debug\\layout_minhasdoacoesproduto_cardview_layout.xml.flat",
+        "source": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\src\\main\\res\\layout\\minhasdoacoesproduto_cardview_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_lsvp_round.png.flat",
+        "source": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_lsvp_round.png"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic__icones_app_round.png.flat",
+        "source": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\src\\main\\res\\mipmap-xhdpi\\ic__icones_app_round.png"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_contact.png.flat",
+        "source": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\src\\main\\res\\drawable\\contact.png"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_email_black_24dp.png.flat",
+        "source": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_email_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_campanha.png.flat",
+        "source": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\src\\main\\res\\drawable-v24\\campanha.png"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_person_black_24dp.xml.flat",
+        "source": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_person_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_email_black_24dp.png.flat",
+        "source": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_email_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_speaker_notes_black_24dp.png.flat",
+        "source": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_speaker_notes_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_image5.jpg.flat",
+        "source": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\src\\main\\res\\drawable-v24\\image5.jpg"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_local_mall_black_24dp.png.flat",
+        "source": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_local_mall_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_add_campanha.xml.flat",
+        "source": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\src\\main\\res\\layout\\activity_add_campanha.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_comment_black_24dp.png.flat",
+        "source": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_comment_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_event_available_black_24dp.png.flat",
+        "source": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_event_available_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\intermediates\\res\\merged\\debug\\layout_campanha_cardview_layout.xml.flat",
+        "source": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\src\\main\\res\\layout\\campanha_cardview_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pessoa_fisica.png.flat",
+        "source": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\src\\main\\res\\drawable\\pessoa_fisica.png"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_event_busy_black_24dp.png.flat",
+        "source": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_event_busy_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_event_busy_black_24dp.png.flat",
+        "source": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_event_busy_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_local_florist_black_24dp.png.flat",
+        "source": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_local_florist_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_assignment_black_24dp.png.flat",
+        "source": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_assignment_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_perfil.png.flat",
+        "source": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\src\\main\\res\\drawable-v24\\perfil.png"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic__icones_app_projeto_round.xml.flat",
+        "source": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic__icones_app_projeto_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_local_florist_black_24dp.png.flat",
+        "source": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_local_florist_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic__icones_app.png.flat",
+        "source": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\src\\main\\res\\mipmap-xhdpi\\ic__icones_app.png"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_speaker_notes_black_24dp.xml.flat",
+        "source": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_speaker_notes_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_enhanced_encryption_black_24dp.png.flat",
+        "source": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_enhanced_encryption_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic__icones_app_projeto.png.flat",
+        "source": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\src\\main\\res\\mipmap-xxhdpi\\ic__icones_app_projeto.png"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_comprovante_p.xml.flat",
+        "source": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\src\\main\\res\\layout\\activity_comprovante_p.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic__icones_app_projeto_round.png.flat",
+        "source": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic__icones_app_projeto_round.png"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_enhanced_encryption_black_24dp.xml.flat",
+        "source": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_enhanced_encryption_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_image4.jpg.flat",
+        "source": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\src\\main\\res\\drawable-v24\\image4.jpg"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_assignment_black_24dp.xml.flat",
+        "source": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_assignment_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_person_black_24dp.png.flat",
+        "source": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_person_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_lsvp_foreground.png.flat",
+        "source": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\src\\main\\res\\mipmap-mdpi\\ic_lsvp_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_local_mall_black_24dp.png.flat",
+        "source": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_local_mall_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic__icones_app.png.flat",
+        "source": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\src\\main\\res\\mipmap-xxhdpi\\ic__icones_app.png"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_facebook.xml.flat",
+        "source": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\src\\main\\res\\layout\\activity_facebook.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_site_int.xml.flat",
+        "source": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\src\\main\\res\\layout\\activity_site_int.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pin.png.flat",
+        "source": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\src\\main\\res\\drawable\\pin.png"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_gerenciar_campanhas.xml.flat",
+        "source": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\src\\main\\res\\layout\\activity_gerenciar_campanhas.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_event_available_black_24dp.png.flat",
+        "source": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_event_available_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_lsvp_background.xml.flat",
+        "source": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_lsvp_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_lsvp.png.flat",
+        "source": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_lsvp.png"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_assignment_black_24dp.png.flat",
+        "source": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_assignment_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_event_available_black_24dp.png.flat",
+        "source": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_event_available_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_comment_black_24dp.png.flat",
+        "source": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_comment_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_featured_play_list_black_24dp.png.flat",
+        "source": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_featured_play_list_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_cadastro_juridica.xml.flat",
+        "source": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\src\\main\\res\\layout\\activity_cadastro_juridica.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_event_available_black_24dp.xml.flat",
+        "source": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_event_available_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_image1.jpg.flat",
+        "source": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\src\\main\\res\\drawable-v24\\image1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_featured_play_list_black_24dp.png.flat",
+        "source": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_featured_play_list_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_lsvp.png.flat",
+        "source": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\src\\main\\res\\mipmap-xhdpi\\ic_lsvp.png"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic__icones_app_projeto_round.png.flat",
+        "source": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\src\\main\\res\\mipmap-mdpi\\ic__icones_app_projeto_round.png"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_local_atm_black_24dp.png.flat",
+        "source": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_local_atm_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_email_black_24dp.png.flat",
+        "source": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_email_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_phone.png.flat",
+        "source": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\src\\main\\res\\drawable\\phone.png"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_enhanced_encryption_black_24dp.png.flat",
+        "source": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_enhanced_encryption_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_sobre_instituicao.png.flat",
+        "source": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\src\\main\\res\\drawable-v24\\sobre_instituicao.png"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_comentarios.xml.flat",
+        "source": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\src\\main\\res\\layout\\activity_comentarios.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_speaker_notes_black_24dp.png.flat",
+        "source": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_speaker_notes_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_event_busy_black_24dp.png.flat",
+        "source": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_event_busy_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_speaker_notes_black_24dp.png.flat",
+        "source": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_speaker_notes_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_lsvp_foreground.png.flat",
+        "source": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\src\\main\\res\\drawable-v24\\ic_lsvp_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_person_black_24dp.png.flat",
+        "source": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_person_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic__icones_app_round.png.flat",
+        "source": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\src\\main\\res\\mipmap-xxhdpi\\ic__icones_app_round.png"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_lsvp.png.flat",
+        "source": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\src\\main\\res\\mipmap-mdpi\\ic_lsvp.png"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic__icones_app_foreground.png.flat",
+        "source": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\src\\main\\res\\mipmap-hdpi\\ic__icones_app_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_local_atm_black_24dp.xml.flat",
+        "source": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_local_atm_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ajuda.png.flat",
+        "source": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\src\\main\\res\\drawable-v24\\ajuda.png"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_lsvp_background.png.flat",
+        "source": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_lsvp_background.png"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_site.png.flat",
+        "source": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\src\\main\\res\\drawable\\site.png"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_sobre_nos.xml.flat",
+        "source": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\src\\main\\res\\layout\\activity_sobre_nos.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_subtitles_black_24dp.png.flat",
+        "source": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_subtitles_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_subtitles_black_24dp.png.flat",
+        "source": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_subtitles_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic__icones_app_projeto.xml.flat",
+        "source": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic__icones_app_projeto.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_send_black_24dp.xml.flat",
+        "source": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\src\\main\\res\\drawable-v24\\ic_send_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_assignment_black_24dp.png.flat",
+        "source": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_assignment_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_event_available_black_24dp.png.flat",
+        "source": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_event_available_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_comment_black_24dp.png.flat",
+        "source": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_comment_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_cadastro_fisica.xml.flat",
+        "source": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\src\\main\\res\\layout\\activity_cadastro_fisica.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_featured_play_list_black_24dp.png.flat",
+        "source": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_featured_play_list_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_subtitles_black_24dp.png.flat",
+        "source": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_subtitles_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic__icones_app.xml.flat",
+        "source": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic__icones_app.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_lsvp_round.png.flat",
+        "source": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\src\\main\\res\\mipmap-mdpi\\ic_lsvp_round.png"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic__icones_app_projeto_foreground.png.flat",
+        "source": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic__icones_app_projeto_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_local_florist_black_24dp.xml.flat",
+        "source": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_local_florist_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_assignment_black_24dp.png.flat",
+        "source": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_assignment_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_lsvp_background.png.flat",
+        "source": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_lsvp_background.png"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_splash.xml.flat",
+        "source": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic__icones_app_round.png.flat",
+        "source": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic__icones_app_round.png"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_email_black_24dp.png.flat",
+        "source": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_email_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_doacoes_diferenciado.png.flat",
+        "source": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\src\\main\\res\\drawable-v24\\doacoes_diferenciado.png"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_folder_email.png.flat",
+        "source": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\src\\main\\res\\drawable\\folder_email.png"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic__icones_app.png.flat",
+        "source": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\src\\main\\res\\mipmap-hdpi\\ic__icones_app.png"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_event_busy_black_24dp.png.flat",
+        "source": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_event_busy_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_lsvp_foreground.png.flat",
+        "source": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\src\\main\\res\\mipmap-xhdpi\\ic_lsvp_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_ajuda.xml.flat",
+        "source": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\src\\main\\res\\layout\\activity_ajuda.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_comment_black_24dp.png.flat",
+        "source": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_comment_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_facebook.png.flat",
+        "source": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\src\\main\\res\\drawable\\facebook.png"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic__icones_app.png.flat",
+        "source": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\src\\main\\res\\mipmap-mdpi\\ic__icones_app.png"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_lsvp_foreground.png.flat",
+        "source": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_lsvp_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_speaker_notes_black_24dp.png.flat",
+        "source": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_speaker_notes_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic__icones_app_round.png.flat",
+        "source": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\src\\main\\res\\mipmap-mdpi\\ic__icones_app_round.png"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic__icones_app_projeto_round.png.flat",
+        "source": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\src\\main\\res\\mipmap-hdpi\\ic__icones_app_projeto_round.png"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_featured_play_list_black_24dp.png.flat",
+        "source": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_featured_play_list_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_conversa_iconev2.png.flat",
+        "source": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\src\\main\\res\\drawable-v24\\conversa_iconev2.png"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_lsvp_round.xml.flat",
+        "source": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_lsvp_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic__icones_app_projeto_foreground.png.flat",
+        "source": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\src\\main\\res\\mipmap-mdpi\\ic__icones_app_projeto_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_assignment_black_24dp.png.flat",
+        "source": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_assignment_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\intermediates\\res\\merged\\debug\\layout_minhasdoacoesdinheiro_cardiview_layout.xml.flat",
+        "source": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\src\\main\\res\\layout\\minhasdoacoesdinheiro_cardiview_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic__icones_app_projeto_foreground.png.flat",
+        "source": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\src\\main\\res\\mipmap-xhdpi\\ic__icones_app_projeto_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic__icones_app_foreground.png.flat",
+        "source": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\src\\main\\res\\mipmap-mdpi\\ic__icones_app_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_person_black_24dp.png.flat",
+        "source": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_person_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_local_mall_black_24dp.png.flat",
+        "source": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_local_mall_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_home.jpg.flat",
+        "source": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\src\\main\\res\\drawable\\home.jpg"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_person_black_24dp.png.flat",
+        "source": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_person_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_enhanced_encryption_black_24dp.png.flat",
+        "source": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_enhanced_encryption_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_minhas_doacoes_dinheiro.xml.flat",
+        "source": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\src\\main\\res\\layout\\activity_minhas_doacoes_dinheiro.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_larvelhos.jpg.flat",
+        "source": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\src\\main\\res\\drawable-v24\\larvelhos.jpg"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_perfil.xml.flat",
+        "source": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\src\\main\\res\\layout\\activity_perfil.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\intermediates\\res\\merged\\debug\\layout_comentarios_cardview_layout.xml.flat",
+        "source": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\src\\main\\res\\layout\\comentarios_cardview_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_enhanced_encryption_black_24dp.png.flat",
+        "source": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_enhanced_encryption_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_lsvp.png.flat",
+        "source": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_lsvp.png"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_conversa_icone.png.flat",
+        "source": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\src\\main\\res\\drawable-v24\\conversa_icone.png"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic__icones_app_projeto.png.flat",
+        "source": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\src\\main\\res\\mipmap-xhdpi\\ic__icones_app_projeto.png"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_subtitles_black_24dp.png.flat",
+        "source": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_subtitles_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_lsvp_round.png.flat",
+        "source": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\src\\main\\res\\mipmap-xhdpi\\ic_lsvp_round.png"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_speaker_notes_black_24dp.png.flat",
+        "source": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_speaker_notes_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_lsvp.png.flat",
+        "source": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\src\\main\\res\\mipmap-hdpi\\ic_lsvp.png"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_local_atm_black_24dp.png.flat",
+        "source": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_local_atm_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic__icones_app_foreground.png.flat",
+        "source": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic__icones_app_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_local_atm_black_24dp.png.flat",
+        "source": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_local_atm_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_lsvp_foreground.png.flat",
+        "source": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_lsvp_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_person_black_24dp.png.flat",
+        "source": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_person_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_abas.xml.flat",
+        "source": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\src\\main\\res\\layout\\activity_abas.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_local_mall_black_24dp.png.flat",
+        "source": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_local_mall_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_minhas_doacoes.png.flat",
+        "source": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\src\\main\\res\\drawable-v24\\minhas_doacoes.png"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_background_caixa_comentario_azul.xml.flat",
+        "source": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\src\\main\\res\\drawable-v24\\background_caixa_comentario_azul.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_subtitles_black_24dp.png.flat",
+        "source": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_subtitles_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_comment_black_24dp.png.flat",
+        "source": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_comment_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu_gerenciar_campanhas.xml.flat",
+        "source": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\src\\main\\res\\menu\\menu_gerenciar_campanhas.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_gerenciar_produto.xml.flat",
+        "source": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\src\\main\\res\\layout\\activity_gerenciar_produto.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu_principal.xml.flat",
+        "source": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\src\\main\\res\\menu\\menu_principal.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_enhanced_encryption_black_24dp.png.flat",
+        "source": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_enhanced_encryption_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_featured_play_list_black_24dp.xml.flat",
+        "source": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_featured_play_list_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_instagram.png.flat",
+        "source": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\src\\main\\res\\drawable\\instagram.png"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\intermediates\\res\\merged\\debug\\layout_botao_flutuante.xml.flat",
+        "source": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\src\\main\\res\\layout\\botao_flutuante.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic__icones_app_projeto_foreground.png.flat",
+        "source": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\src\\main\\res\\mipmap-hdpi\\ic__icones_app_projeto_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_lsvp_round.png.flat",
+        "source": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\src\\main\\res\\mipmap-hdpi\\ic_lsvp_round.png"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic__icones_app_round.xml.flat",
+        "source": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic__icones_app_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic__icones_app_projeto_round.png.flat",
+        "source": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\src\\main\\res\\mipmap-xhdpi\\ic__icones_app_projeto_round.png"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_event_busy_black_24dp.xml.flat",
+        "source": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_event_busy_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_lsvp_background.png.flat",
+        "source": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_lsvp_background.png"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_produto.xml.flat",
+        "source": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\src\\main\\res\\layout\\activity_produto.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_event_available_black_24dp.png.flat",
+        "source": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_event_available_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_email_black_24dp.xml.flat",
+        "source": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_email_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic__icones_app_projeto_round.png.flat",
+        "source": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\src\\main\\res\\mipmap-xxhdpi\\ic__icones_app_projeto_round.png"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_image2.jpg.flat",
+        "source": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\src\\main\\res\\drawable-v24\\image2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_email_black_24dp.png.flat",
+        "source": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_email_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_local_florist_black_24dp.png.flat",
+        "source": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_local_florist_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic__icones_app_foreground.png.flat",
+        "source": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\src\\main\\res\\mipmap-xxhdpi\\ic__icones_app_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic__icones_app_round.png.flat",
+        "source": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\src\\main\\res\\mipmap-hdpi\\ic__icones_app_round.png"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_local_atm_black_24dp.png.flat",
+        "source": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_local_atm_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic__icones_app_projeto.png.flat",
+        "source": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\src\\main\\res\\mipmap-hdpi\\ic__icones_app_projeto.png"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_lsvp_background.png.flat",
+        "source": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_lsvp_background.png"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic__icones_app_projeto_foreground.png.flat",
+        "source": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\src\\main\\res\\mipmap-xxhdpi\\ic__icones_app_projeto_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_local_mall_black_24dp.png.flat",
+        "source": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_local_mall_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_background_caixa_comentario.xml.flat",
+        "source": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\src\\main\\res\\drawable-v24\\background_caixa_comentario.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_escolha.xml.flat",
+        "source": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\src\\main\\res\\layout\\activity_escolha.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_subtitles_black_24dp.png.flat",
+        "source": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_subtitles_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_campanhas2.xml.flat",
+        "source": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\src\\main\\res\\layout\\activity_campanhas2.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic__icones_app_foreground.png.flat",
+        "source": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\src\\main\\res\\mipmap-xhdpi\\ic__icones_app_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_event_busy_black_24dp.png.flat",
+        "source": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_event_busy_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_speaker_notes_black_24dp.png.flat",
+        "source": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_speaker_notes_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_calendar_button.png.flat",
+        "source": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\src\\main\\res\\drawable\\calendar_button.png"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_lsvp_background.png.flat",
+        "source": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_lsvp_background.png"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_event_available_black_24dp.png.flat",
+        "source": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_event_available_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_local_florist_black_24dp.png.flat",
+        "source": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_local_florist_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_subtitles_black_24dp.xml.flat",
+        "source": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_subtitles_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_remover_campanha.xml.flat",
+        "source": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\src\\main\\res\\layout\\activity_remover_campanha.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_image3.jpg.flat",
+        "source": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\src\\main\\res\\drawable-v24\\image3.jpg"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pessoa_juridica.png.flat",
+        "source": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\src\\main\\res\\drawable\\pessoa_juridica.png"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic__icones_app.png.flat",
+        "source": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic__icones_app.png"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_person_black_24dp.png.flat",
+        "source": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_person_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_fundo.jpg.flat",
+        "source": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\src\\main\\res\\drawable-v24\\fundo.jpg"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_lsvp.xml.flat",
+        "source": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_lsvp.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_add_produto.xml.flat",
+        "source": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\src\\main\\res\\layout\\activity_add_produto.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_local_atm_black_24dp.png.flat",
+        "source": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_local_atm_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic__icones_app_projeto.png.flat",
+        "source": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic__icones_app_projeto.png"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_local_atm_black_24dp.png.flat",
+        "source": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_local_atm_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_local_mall_black_24dp.xml.flat",
+        "source": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_local_mall_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_featured_play_list_black_24dp.png.flat",
+        "source": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_featured_play_list_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_local_florist_black_24dp.png.flat",
+        "source": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_local_florist_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_enhanced_encryption_black_24dp.png.flat",
+        "source": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_enhanced_encryption_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_email_black_24dp.png.flat",
+        "source": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_email_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_comment_black_24dp.png.flat",
+        "source": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_comment_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic__icones_app_projeto.png.flat",
+        "source": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\src\\main\\res\\mipmap-mdpi\\ic__icones_app_projeto.png"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_event_busy_black_24dp.png.flat",
+        "source": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_event_busy_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_local_mall_black_24dp.png.flat",
+        "source": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_local_mall_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_comment_black_24dp.xml.flat",
+        "source": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_comment_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_campanhas.xml.flat",
+        "source": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\src\\main\\res\\layout\\activity_campanhas.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_botao_background.xml.flat",
+        "source": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\src\\main\\res\\drawable\\botao_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\intermediates\\res\\merged\\debug\\layout_toolbar_padrao.xml.flat",
+        "source": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\src\\main\\res\\layout\\toolbar_padrao.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_lsvp_round.png.flat",
+        "source": "C:\\Users\\PC\\Desktop\\GIT\\Android 21-06 13h17min\\Android\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_lsvp_round.png"
+    }
+]

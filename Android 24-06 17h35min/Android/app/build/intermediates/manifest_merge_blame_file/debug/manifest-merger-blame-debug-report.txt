@@ -1,0 +1,136 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="br.android.larsaovicentev2"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="14"
+8-->C:\Users\PC\Desktop\GIT\Android 21-06 13h17min\Android\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="29" />
+9-->C:\Users\PC\Desktop\GIT\Android 21-06 13h17min\Android\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->C:\Users\PC\Desktop\GIT\Android 21-06 13h17min\Android\app\src\main\AndroidManifest.xml:5:5-67
+11-->C:\Users\PC\Desktop\GIT\Android 21-06 13h17min\Android\app\src\main\AndroidManifest.xml:5:22-64
+12    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+12-->C:\Users\PC\Desktop\GIT\Android 21-06 13h17min\Android\app\src\main\AndroidManifest.xml:6:5-79
+12-->C:\Users\PC\Desktop\GIT\Android 21-06 13h17min\Android\app\src\main\AndroidManifest.xml:6:22-76
+13
+14    <application
+14-->C:\Users\PC\Desktop\GIT\Android 21-06 13h17min\Android\app\src\main\AndroidManifest.xml:8:5-46:19
+15        android:allowBackup="true"
+15-->C:\Users\PC\Desktop\GIT\Android 21-06 13h17min\Android\app\src\main\AndroidManifest.xml:9:9-35
+16        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+16-->[androidx.core:core:1.3.0-beta01] C:\Users\PC\.gradle\caches\transforms-2\files-2.1\a13b1183d3ca1cfb7ebf0de0c4058f8f\core-1.3.0-beta01\AndroidManifest.xml:24:18-86
+17        android:debuggable="true"
+18        android:icon="@mipmap/ic_launcher"
+18-->C:\Users\PC\Desktop\GIT\Android 21-06 13h17min\Android\app\src\main\AndroidManifest.xml:10:9-43
+19        android:label="@string/app_name"
+19-->C:\Users\PC\Desktop\GIT\Android 21-06 13h17min\Android\app\src\main\AndroidManifest.xml:11:9-41
+20        android:roundIcon="@mipmap/ic_launcher_round"
+20-->C:\Users\PC\Desktop\GIT\Android 21-06 13h17min\Android\app\src\main\AndroidManifest.xml:12:9-54
+21        android:supportsRtl="true"
+21-->C:\Users\PC\Desktop\GIT\Android 21-06 13h17min\Android\app\src\main\AndroidManifest.xml:13:9-35
+22        android:testOnly="true"
+23        android:theme="@style/AppTheme"
+23-->C:\Users\PC\Desktop\GIT\Android 21-06 13h17min\Android\app\src\main\AndroidManifest.xml:14:9-40
+24        android:usesCleartextTraffic="true" >
+24-->C:\Users\PC\Desktop\GIT\Android 21-06 13h17min\Android\app\src\main\AndroidManifest.xml:15:9-44
+25        <activity android:name="br.android.larsaovicentev2.AddProdutoActivity" />
+25-->C:\Users\PC\Desktop\GIT\Android 21-06 13h17min\Android\app\src\main\AndroidManifest.xml:16:9-65
+25-->C:\Users\PC\Desktop\GIT\Android 21-06 13h17min\Android\app\src\main\AndroidManifest.xml:16:19-53
+26        <activity android:name="br.android.larsaovicentev2.GerenciarProdutoActivity" />
+26-->C:\Users\PC\Desktop\GIT\Android 21-06 13h17min\Android\app\src\main\AndroidManifest.xml:17:9-62
+26-->C:\Users\PC\Desktop\GIT\Android 21-06 13h17min\Android\app\src\main\AndroidManifest.xml:17:19-59
+27        <activity android:name="br.android.larsaovicentev2.FacebookActivity" />
+27-->C:\Users\PC\Desktop\GIT\Android 21-06 13h17min\Android\app\src\main\AndroidManifest.xml:18:9-54
+27-->C:\Users\PC\Desktop\GIT\Android 21-06 13h17min\Android\app\src\main\AndroidManifest.xml:18:19-51
+28        <activity android:name="br.android.larsaovicentev2.SiteIntActivity" />
+28-->C:\Users\PC\Desktop\GIT\Android 21-06 13h17min\Android\app\src\main\AndroidManifest.xml:19:9-53
+28-->C:\Users\PC\Desktop\GIT\Android 21-06 13h17min\Android\app\src\main\AndroidManifest.xml:19:19-50
+29        <activity android:name="br.android.larsaovicentev2.MinhasDoacoesProdutoActivity" />
+29-->C:\Users\PC\Desktop\GIT\Android 21-06 13h17min\Android\app\src\main\AndroidManifest.xml:20:9-66
+29-->C:\Users\PC\Desktop\GIT\Android 21-06 13h17min\Android\app\src\main\AndroidManifest.xml:20:19-63
+30        <activity android:name="br.android.larsaovicentev2.MinhasDoacoesDinheiroActivity" />
+30-->C:\Users\PC\Desktop\GIT\Android 21-06 13h17min\Android\app\src\main\AndroidManifest.xml:21:9-67
+30-->C:\Users\PC\Desktop\GIT\Android 21-06 13h17min\Android\app\src\main\AndroidManifest.xml:21:19-64
+31        <activity android:name="br.android.larsaovicentev2.RemoverCampanhaActivity" />
+31-->C:\Users\PC\Desktop\GIT\Android 21-06 13h17min\Android\app\src\main\AndroidManifest.xml:22:9-61
+31-->C:\Users\PC\Desktop\GIT\Android 21-06 13h17min\Android\app\src\main\AndroidManifest.xml:22:19-58
+32        <activity android:name="br.android.larsaovicentev2.GerenciarCampanhasActivity" />
+32-->C:\Users\PC\Desktop\GIT\Android 21-06 13h17min\Android\app\src\main\AndroidManifest.xml:23:9-64
+32-->C:\Users\PC\Desktop\GIT\Android 21-06 13h17min\Android\app\src\main\AndroidManifest.xml:23:19-61
+33        <activity android:name="br.android.larsaovicentev2.AddCampanhaActivity" />
+33-->C:\Users\PC\Desktop\GIT\Android 21-06 13h17min\Android\app\src\main\AndroidManifest.xml:24:9-57
+33-->C:\Users\PC\Desktop\GIT\Android 21-06 13h17min\Android\app\src\main\AndroidManifest.xml:24:19-54
+34        <activity android:name="br.android.larsaovicentev2.AjudaActivity" />
+34-->C:\Users\PC\Desktop\GIT\Android 21-06 13h17min\Android\app\src\main\AndroidManifest.xml:25:9-51
+34-->C:\Users\PC\Desktop\GIT\Android 21-06 13h17min\Android\app\src\main\AndroidManifest.xml:25:19-48
+35        <activity android:name="br.android.larsaovicentev2.activitys.PerfilActivity" />
+35-->C:\Users\PC\Desktop\GIT\Android 21-06 13h17min\Android\app\src\main\AndroidManifest.xml:26:9-62
+35-->C:\Users\PC\Desktop\GIT\Android 21-06 13h17min\Android\app\src\main\AndroidManifest.xml:26:19-59
+36        <activity android:name="br.android.larsaovicentev2.DoacaoProdutoActivity" />
+36-->C:\Users\PC\Desktop\GIT\Android 21-06 13h17min\Android\app\src\main\AndroidManifest.xml:27:9-59
+36-->C:\Users\PC\Desktop\GIT\Android 21-06 13h17min\Android\app\src\main\AndroidManifest.xml:27:19-56
+37        <activity android:name="br.android.larsaovicentev2.DoacaoDinheiroActivity" />
+37-->C:\Users\PC\Desktop\GIT\Android 21-06 13h17min\Android\app\src\main\AndroidManifest.xml:28:9-60
+37-->C:\Users\PC\Desktop\GIT\Android 21-06 13h17min\Android\app\src\main\AndroidManifest.xml:28:19-57
+38        <activity android:name="br.android.larsaovicentev2.activitys.ComentariosActivity" />
+38-->C:\Users\PC\Desktop\GIT\Android 21-06 13h17min\Android\app\src\main\AndroidManifest.xml:29:9-67
+38-->C:\Users\PC\Desktop\GIT\Android 21-06 13h17min\Android\app\src\main\AndroidManifest.xml:29:19-64
+39        <activity android:name="br.android.larsaovicentev2.ComprovanteDActivity" />
+39-->C:\Users\PC\Desktop\GIT\Android 21-06 13h17min\Android\app\src\main\AndroidManifest.xml:30:9-58
+39-->C:\Users\PC\Desktop\GIT\Android 21-06 13h17min\Android\app\src\main\AndroidManifest.xml:30:19-55
+40        <activity android:name="br.android.larsaovicentev2.ComprovantePActivity" />
+40-->C:\Users\PC\Desktop\GIT\Android 21-06 13h17min\Android\app\src\main\AndroidManifest.xml:31:9-58
+40-->C:\Users\PC\Desktop\GIT\Android 21-06 13h17min\Android\app\src\main\AndroidManifest.xml:31:19-55
+41        <activity android:name="br.android.larsaovicentev2.CampanhasActivity" />
+41-->C:\Users\PC\Desktop\GIT\Android 21-06 13h17min\Android\app\src\main\AndroidManifest.xml:32:9-55
+41-->C:\Users\PC\Desktop\GIT\Android 21-06 13h17min\Android\app\src\main\AndroidManifest.xml:32:19-52
+42        <activity android:name="br.android.larsaovicentev2.activitys.SobreNosActivity" />
+42-->C:\Users\PC\Desktop\GIT\Android 21-06 13h17min\Android\app\src\main\AndroidManifest.xml:33:9-64
+42-->C:\Users\PC\Desktop\GIT\Android 21-06 13h17min\Android\app\src\main\AndroidManifest.xml:33:19-61
+43        <activity android:name="br.android.larsaovicentev2.activitys.EscolhaActivity" />
+43-->C:\Users\PC\Desktop\GIT\Android 21-06 13h17min\Android\app\src\main\AndroidManifest.xml:34:9-63
+43-->C:\Users\PC\Desktop\GIT\Android 21-06 13h17min\Android\app\src\main\AndroidManifest.xml:34:19-60
+44        <activity android:name="br.android.larsaovicentev2.activitys.AbasActivity" />
+44-->C:\Users\PC\Desktop\GIT\Android 21-06 13h17min\Android\app\src\main\AndroidManifest.xml:35:9-60
+44-->C:\Users\PC\Desktop\GIT\Android 21-06 13h17min\Android\app\src\main\AndroidManifest.xml:35:19-57
+45        <activity android:name="br.android.larsaovicentev2.activitys.SplashActivity" >
+45-->C:\Users\PC\Desktop\GIT\Android 21-06 13h17min\Android\app\src\main\AndroidManifest.xml:36:9-42:20
+45-->C:\Users\PC\Desktop\GIT\Android 21-06 13h17min\Android\app\src\main\AndroidManifest.xml:36:19-59
+46            <intent-filter>
+46-->C:\Users\PC\Desktop\GIT\Android 21-06 13h17min\Android\app\src\main\AndroidManifest.xml:37:13-41:29
+47                <action android:name="android.intent.action.MAIN" />
+47-->C:\Users\PC\Desktop\GIT\Android 21-06 13h17min\Android\app\src\main\AndroidManifest.xml:38:17-69
+47-->C:\Users\PC\Desktop\GIT\Android 21-06 13h17min\Android\app\src\main\AndroidManifest.xml:38:25-66
+48
+49                <category android:name="android.intent.category.LAUNCHER" />
+49-->C:\Users\PC\Desktop\GIT\Android 21-06 13h17min\Android\app\src\main\AndroidManifest.xml:40:17-77
+49-->C:\Users\PC\Desktop\GIT\Android 21-06 13h17min\Android\app\src\main\AndroidManifest.xml:40:27-74
+50            </intent-filter>
+51        </activity>
+52        <activity android:name="br.android.larsaovicentev2.activitys.CadastroPessoaJuridicaActivity" />
+52-->C:\Users\PC\Desktop\GIT\Android 21-06 13h17min\Android\app\src\main\AndroidManifest.xml:43:9-78
+52-->C:\Users\PC\Desktop\GIT\Android 21-06 13h17min\Android\app\src\main\AndroidManifest.xml:43:19-75
+53        <activity android:name="br.android.larsaovicentev2.activitys.CadastroPessoaFisicaActivity" />
+53-->C:\Users\PC\Desktop\GIT\Android 21-06 13h17min\Android\app\src\main\AndroidManifest.xml:44:9-76
+53-->C:\Users\PC\Desktop\GIT\Android 21-06 13h17min\Android\app\src\main\AndroidManifest.xml:44:19-73
+54        <activity android:name="br.android.larsaovicentev2.activitys.MainActivity" />
+54-->C:\Users\PC\Desktop\GIT\Android 21-06 13h17min\Android\app\src\main\AndroidManifest.xml:45:9-60
+54-->C:\Users\PC\Desktop\GIT\Android 21-06 13h17min\Android\app\src\main\AndroidManifest.xml:45:19-57
+55
+56        <provider
+56-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\PC\.gradle\caches\transforms-2\files-2.1\a7777210eeae7ec0839470505116d148\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:25:9-29:43
+57            android:name="androidx.lifecycle.ProcessLifecycleOwnerInitializer"
+57-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\PC\.gradle\caches\transforms-2\files-2.1\a7777210eeae7ec0839470505116d148\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:26:13-79
+58            android:authorities="br.android.larsaovicentev2.lifecycle-process"
+58-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\PC\.gradle\caches\transforms-2\files-2.1\a7777210eeae7ec0839470505116d148\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:27:13-69
+59            android:exported="false"
+59-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\PC\.gradle\caches\transforms-2\files-2.1\a7777210eeae7ec0839470505116d148\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:28:13-37
+60            android:multiprocess="true" />
+60-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\PC\.gradle\caches\transforms-2\files-2.1\a7777210eeae7ec0839470505116d148\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:29:13-40
+61    </application>
+62
+63</manifest>
